@@ -28,8 +28,6 @@ MEDIA_ROOT = MEDIA_DIR
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-465)$%*n&)p)02$rqle$l5e064_)3myp5ctkw)t5+08&ll0cd5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
